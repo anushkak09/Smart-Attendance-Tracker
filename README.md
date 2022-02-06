@@ -1,4 +1,7 @@
 # Smart-Attendance-Tracker
-a.Create a dataset of your faces by running face_dataset.py.This can only be run through cmd using specific instructions.Follow these instructions from here-->
- https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/	    
-b.Then run face_encodings to create encodings for your face.                                                               					                                                c.Run face_recog.py .This is the final step.Every time the program runs a new excel sheet will be created .   
+As a part of Mini Project SEM-4,we built an Attendance Tracker that makes use of Open-CV,Face Recognition Library to mark the attendance by identifying the faces.The recognized faces are saved as along with their details in an Excel Sheet.
+
+HOW TO RUN ?
+1.Build a customized dataset 
+2.Run the encodings file
+3.Run the recognition file
