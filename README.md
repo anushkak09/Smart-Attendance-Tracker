@@ -3,7 +3,7 @@ As a part of Mini Project SEM-4,we built an Attendance Tracker that makes use of
 
 HOW TO RUN ?
 
-1.Build a customized dataset of your name
+1.Build a customized dataset of your name(dataset.py)
 
 2.Run the encodings file (face_enc.py)
 
